@@ -1,0 +1,4 @@
+git remote add origin https://github.com/Raven-Neemacodes/my_odoo_addons.git
+git add .
+git commit -m "Initial"
+git push -u origin main

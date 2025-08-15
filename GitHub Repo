@@ -1,0 +1,3 @@
+mkdir my_odoo_addons
+cd my_odoo_addons
+git init
